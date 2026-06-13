@@ -1,0 +1,18 @@
+window {
+	background-color: rgba(20, 20, 20, 0.9);
+}
+
+button {
+	color: white;
+	background-color: #2e3440;
+	min-width: 60px;
+	min-height: 60px;
+	margin: 7px;
+	border-radius: 4px;
+	font-size: 25px;
+}
+
+button:hover {
+	background-color: #5e81ac;
+}
+
